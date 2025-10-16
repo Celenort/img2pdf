@@ -1,3 +1,5 @@
+> This repository is PURELY made by ChatGPT 5 using vibe coding
+
 # Scan-to-PDF (No OCR) — Text Alignment + Post-Trim (Multi-Folder)
 
 This tool converts **folders of photos** (documents shot by phone/camera) into **clean PDFs**, one PDF per folder. It focuses on **paper detection** and **text alignment** (skew/shear) **without OCR**, with optional **post-trim + zoom-to-fill** to remove margins and make the paper fill the page.
